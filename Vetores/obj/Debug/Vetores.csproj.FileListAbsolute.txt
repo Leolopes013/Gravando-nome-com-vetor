@@ -1,0 +1,14 @@
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\obj\Debug\Vetores.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\Lab_03_alu_18\Desktop\Vetores\Vetores\obj\Debug\Vetores.pdb
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\Leo\Documents\Repositorios\Vetores\Vetores\obj\Debug\Vetores.pdb
