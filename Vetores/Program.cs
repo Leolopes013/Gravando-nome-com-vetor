@@ -27,7 +27,7 @@ namespace Vetores
                 Console.WriteLine(nomes[i]);
                 i++;
             }
-            Console.ReadKey();
+            Console.ReadKey(); //bloquear a tela
 
         }
     }
